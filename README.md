@@ -6,7 +6,7 @@
 * The project covers **data cleaning, filtering, and transformation** using Python and Pandas.
 * It demonstrates techniques for handling **null values, conditional filtering, and column transformations** in a dataset.
 
-🔗 <a href=""> View the Project </a>
+🔗 <a href="https://github.com/Dharani1202/Car-Data-Analysis-Using---Pandas/blob/main/Cars%20Project_1.ipynb"> View the Project </a>
 
 ---
 
@@ -108,7 +108,7 @@
 
 ---
 
-🔗 [View the Project](https://github.com/Dharani1202/Cars-Data-Analysis)
+🔗 <a href="https://github.com/Dharani1202/Car-Data-Analysis-Using---Pandas/blob/main/Cars%20Project_1.ipynb"> View the Project </a>
 
 ---
 
